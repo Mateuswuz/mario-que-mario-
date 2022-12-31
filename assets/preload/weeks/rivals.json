@@ -1,0 +1,31 @@
+{
+	"storyName": "I hate you",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		237,
+		28,
+		36
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"brotherly rivalry",
+			"mario",
+			[
+				237,
+				28,
+				36
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "rivalry"
+}
