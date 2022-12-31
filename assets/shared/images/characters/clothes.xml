@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clothes.png">
+  <!-- Generated using Aseprite .json to FNF .xml: https://github.com/Lethrial/Aseprite-.json-to-FNF-.xml -->
+  <SubTexture name="clothes 0" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 1" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 2" x="480" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 3" x="480" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 4" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 5" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 6" x="0" y="159" width="480" height="159"/>
+  <SubTexture name="clothes 7" x="0" y="159" width="480" height="159"/>
+  <SubTexture name="clothes 8" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 9" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 10" x="480" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 11" x="480" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 12" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 13" x="0" y="0" width="480" height="159"/>
+  <SubTexture name="clothes 14" x="0" y="159" width="480" height="159"/>
+  <SubTexture name="clothes 15" x="0" y="159" width="480" height="159"/>
+</TextureAtlas>
